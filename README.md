@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Fábio Costa  👋
 
-- 🔭 Hoje estou trabalhando com CrC de vendas 
-- 🌱 Estando Analise e Desenvolvimento de Sistemas 
+- 🔭 Hoje estou trabalhando com CRC de vendas 
+- 🌱 Estudando Analise e Desenvolvimento de Sistemas 
 - 📫 Contate-me no e-mail : fabio.fc@hotmail.com
 - 😄 Pronouns: ele/dele
 
