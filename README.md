@@ -18,6 +18,7 @@
     <img align="center" alt="Fab-js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Fab-sql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/8Cyw1ritnBq8aE9Sea/giphy.webp">
+    <img align="center" alt="Fab-js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
 </div>
 
 ##
