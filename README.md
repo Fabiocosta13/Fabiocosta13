@@ -4,6 +4,7 @@
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas 
 - 📫 Contate-me no e-mail : fabio.fc@hotmail.com
 - 😄 Pronouns: ele/dele
+- Projeto LandPading : https://guileless-dango-2486d4.netlify.app
 
 <div align="center">
   <a href="https://github.com/Fabiocosta13">
